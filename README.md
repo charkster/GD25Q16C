@@ -1,6 +1,8 @@
 # GD25Q16C
 ![picture](https://cdn-shop.adafruit.com/970x728/4763-02.jpg)
 
+![picture](https://github.com/charkster/GD25Q32C/blob/main/gd25q32c_pin_diagram.png)
+
 Python driver for GD25Q16C 2MB SPI NOR Flash Memory IC.
 This part is commonly used to increase MCU flash memory. It typically costs less than $1.
 This driver was developed for Raspberry Pi. Works on both Python 2 and 3.
